@@ -1,2 +1,4 @@
-npm i
-npm start
+# REACT-GITCARDS
+
+- npm i
+- npm start
